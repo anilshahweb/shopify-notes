@@ -10,6 +10,6 @@ Closing </head> tag se pehle custom CSS file ko include karenge:
 Ab custom.css file ke andar jo bhi CSS code likhenge, wo Shopify theme par apply ho jayega.
 Example:
 .custom-button {
-  background: black;
-  color: white;
+background: black;
+color: white;
 }
